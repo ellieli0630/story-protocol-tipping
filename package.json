@@ -1,0 +1,14 @@
+{
+  "name": "story-protocol-tipper",
+  "version": "1.0.0",
+  "description": "Twitter bot that tips users who register IP on Story Protocol",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "dependencies": {
+    "twitter-api-v2": "^1.15.0",
+    "ethers": "^6.7.0",
+    "dotenv": "^16.3.1"
+  }
+}
