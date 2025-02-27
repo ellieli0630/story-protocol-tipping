@@ -4,11 +4,7 @@ A Twitter bot that automatically tips users who register their IP on Story Proto
 
 ## Features 🌟
 
-- Monitors Twitter mentions for Story Protocol transactions
-- Automatically sends token tips to users
-- Posts confirmation tweets with transaction details
-- Supports manual testing mode
-- Handles rate limits and error cases gracefully
+- Tips $IP to fan creation registed IP work
 
 ## Setup 🛠️
 
